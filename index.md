@@ -20,6 +20,10 @@
 
 ## Developer Guide
 
+### Description
+Fitness Finder is a website that UH students can use to find fitness-related activities as well as workout buddies in their area. Whether you are a beginner or a pro, Fitness Finder allows you to broaden your fitness horizons. The main focus of this website is to be able to create a community of students who are interested in furthering their fitness journeys and provide a safe space for them to connect with one another. Starting with creating a profile, users can list their skill level, fitness-related interests, general location,  a picture of themselves, as well as any additional details they might feel the need to include. Once their profile is created, users can create a group for a specific workout session or activity, post to existing groups, or scroll through groups they are interested in. From swimming to roller skating, users have the option of leaving their comfort zone and trying out something new, or honing the skills they already have with others. There is also the option of being matched up with a random workout buddy/group, in the “Random'' tab. Fitness Friends can be used as a networking tool in order to meet people with similar interests that a user hasn’t met before, as well as a way to try new activities that a user may not have thought was available to them. Any important events or workshops will be noted on the calendar.
+
+
 ### Application Design
 
 fitness finder is based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/). Please use the videos and documentation at those sites to better acquaint yourself with the basic application design and form processing in Bowfolios.
